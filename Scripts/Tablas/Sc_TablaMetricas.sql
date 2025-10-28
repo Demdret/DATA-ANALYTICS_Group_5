@@ -1,3 +1,22 @@
+/* =========================================================================
+   ARCHIVO: TablaMetricas.sql
+   TIPO: Script SQL
+   DOMINIO: Modelo de Datos
+   PROPÓSITO: Define la estructura de la tabla [TablaMetricas], la cual
+              almacena información estadística y de rendimiento de los
+              influencers, incluyendo métricas de seguidores, interacción
+              promedio, audiencia auténtica y país de audiencia. La tabla
+              mantiene relaciones con [TablaInfluencer] y [TablaPeriodo].
+   AUTOR: Clemente Andreé Ortiz Ortiz
+   FECHA CREACIÓN: 2025-10-07
+   VERSIÓN: 1.0
+   DEPENDENCIAS: TablaInfluencer, TablaPeriodo
+   CLASIFICACIÓN: Público
+   -------------------------------------------------------------------------
+   HISTORIAL DE CAMBIOS:
+   v1.0 - 2025-10-07 - Clemente Andreé Ortiz Ortiz - Creación inicial del script de la tabla [TablaMetricas].
+========================================================================= */
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON

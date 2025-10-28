@@ -6,14 +6,14 @@
               de errores (TRY/CATCH) para consultar datos de forma
               atómica y segura. Valida la existencia de un influencer
               y si cumple una condición de seguidores.
-   AUTOR: Andree Clemente Ortiz
+   AUTOR: Clemente Andreé Ortiz Ortiz
    FECHA CREACIÓN: 2025-10-16
    VERSIÓN: 1.0
    DEPENDENCIAS: TablaInfluencer, TablaMetricas
    CLASIFICACIÓN: Público
    -------------------------------------------------------------------------
    HISTORIAL DE CAMBIOS:
-   v1.0 - 2025-10-16 - Andree Clemente Ortiz - Creación inicial del script de ejemplo.
+   v1.0 - 2025-10-16 - Clemente Andreé Ortiz Ortiz - Creación inicial del script de ejemplo.
 ========================================================================= */
 
 --- Transacción con manejo de errores

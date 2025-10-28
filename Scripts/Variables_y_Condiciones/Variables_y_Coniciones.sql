@@ -5,14 +5,14 @@
    PROPÓSITO: Ejemplifica el uso de variables y estructuras de control
               condicional (IF/ELSE) para consultar y clasificar a un
               influencer específico según su número de seguidores.
-   AUTOR: Andree Clemente Ortiz
+   AUTOR: Clemente Andreé Ortiz Ortiz
    FECHA CREACIÓN: 2025-10-14
    VERSIÓN: 1.0
    DEPENDENCIAS: TablaInfluencer, TablaMetricas
    CLASIFICACIÓN: Confidencial
    -------------------------------------------------------------------------
    HISTORIAL DE CAMBIOS:
-   v1.0 - 2025-10-14 - Andree Clemente Ortiz - Creación inicial del script de ejemplo.
+   v1.0 - 2025-10-14 - Clemente Andreé Ortiz Ortiz - Creación inicial del script de ejemplo.
 ========================================================================= */
 
 --- Bloque con variables y condiciones

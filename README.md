@@ -118,7 +118,7 @@ Para replicar el entorno de análisis, sigue estos pasos:
 
 ## 6. Autoras y Autores
 *   [Francisco Peix]
-*   [Andreé Clemente Ortiz]
+*   [Clemente Andreé Ortiz Ortiz]
 *   [Perla Muñoz Arizai]
 *   [Mizraim Jehosua Castillo Santoyo]
 *   [Alcázar Miguel Ángel]
