@@ -121,4 +121,3 @@ Para replicar el entorno de análisis, sigue estos pasos:
 *   [Clemente Andreé Ortiz Ortiz]
 *   [Perla Muñoz Arizai]
 *   [Mizraim Jehosua Castillo Santoyo]
-*   [Alcázar Miguel Ángel]

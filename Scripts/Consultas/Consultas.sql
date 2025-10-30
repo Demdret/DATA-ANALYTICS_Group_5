@@ -74,3 +74,15 @@ FROM TablaMetricas
 GROUP BY pais_Audiencia
 HAVING AVG(CAST(audiencia_Autentica AS DECIMAL(18,2))) > 70 
    AND COUNT(*) > 2;
+
+--Determinar influencer auténticos
+SELECT 
+    i.nombre_Usuario AS Nombre_Influencer,
+    m.seguidores,
+    m.likes_Promedio
+FROM dbo.TablaMetricas AS m
+INNER JOIN dbo.TablaInfluencer AS i
+    ON m.ID_Influencer = i.ID_Influencer
+WHERE m.likes_Promedio >= (m.seguidores * 0.30);
+
+use INSTAGRAM_2022
